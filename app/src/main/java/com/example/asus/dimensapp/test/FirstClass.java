@@ -7,5 +7,6 @@ public class FirstClass {
     String name;
     public static void main(String[] arg){
         System.out.print("1243");
+        System.out.print("234");
     }
 }
