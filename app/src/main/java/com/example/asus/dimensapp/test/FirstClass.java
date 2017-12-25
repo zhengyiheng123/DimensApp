@@ -5,4 +5,7 @@ package com.example.asus.dimensapp.test;
  */
 public class FirstClass {
     String name;
+    public static void main(String[] arg){
+        System.out.print("1243");
+    }
 }
