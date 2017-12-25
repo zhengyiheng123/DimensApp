@@ -5,4 +5,5 @@ package com.example.asus.dimensapp.test;
  */
 public class FirstTestClass {
 private String name;
+    private String age;
 }
