@@ -5,6 +5,6 @@ package com.example.asus.dimensapp.test;
  */
 public class SecondTestClass {
     public static void main(String[] arg){
-        System.out.print("456");
+        System.out.print("234");
     }
 }
